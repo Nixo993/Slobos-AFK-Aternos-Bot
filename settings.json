@@ -8,7 +8,7 @@
   "server": {
     "ip": "1234-SnUL.aternos.me",
     "port": 30973,
-    "version": "",
+    "version": "1.16.5",
     "try-creative": false
   },
   "position": {
@@ -31,8 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I'm a regular player(no its bot)",
         "I like to play Minecraft!"
       ]
     },
